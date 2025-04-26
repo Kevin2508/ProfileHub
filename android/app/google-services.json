@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098589060105",
+    "project_id": "profilehub-81669",
+    "storage_bucket": "profilehub-81669.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098589060105:android:4b2261b82ed312ffd30cd8",
+        "android_client_info": {
+          "package_name": "com.example.profilehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDTb_4lPFOqIr4MwbBMjczz43uyTY2Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
